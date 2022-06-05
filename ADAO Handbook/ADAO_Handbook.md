@@ -2,7 +2,7 @@
 
 ## Purpose of Handbook
 
-The purpose of this handbook is to inform members of ADAO and the Cardano Community of the rights and responsibilities of participating in ADAO.  It is intended to be a complement to the ADAO Constitution which can be found on Github at: 
+The purpose of this handbook is to inform members of ADAO and the Cardano Community of the rights and responsibilities of participating in ADAO. It is intended to be a complement to the ADAO Constitution which can be found on Github at: 
 - https://github.com/ADAOcommunity/ADAO-Constitution
 
 ## Guiding Values and History
@@ -11,15 +11,15 @@ ADAO was established on November 13, 2021 with the generation of the ADAO Identi
 
 - https://cardanoscan.io/token/2f1ca92cbb53b23e214393fa230a25da97bbcc9e55d76e211a4deccf4144414f
 
-Leading up to and following the minting of the Identity NFT, ADAO became a gathering place for Cardanians interested in exploring the topic of decentralized governance and the feasibility of establishing DAOs on Cardano.  Through discussions on Discord and public meetings on Twitter Spaces these individuals formed a working group that would become the Founding Core Contributors of ADAO.
+Leading up to and following the minting of the Identity NFT, ADAO became a place where Cardanians interested in exploring the topic of decentralized governance and the feasibility of establishing DAOs on Cardano gathered. Through discussions on Discord and public meetings in Twitter Spaces, these individuals formed a working group that would become the Founding Core Contributors of ADAO.
 
-As interest in the DAO grew more Cardanians were attracted to the group.  The Cardano community recognized the potential in the organization and Partnerships were formed with other builders in the network.  Community Associates turned into Active Contributors as they found ways that they could provide value to the organization.
+Interest in the ADAO grew and, by chance and by intrinstic interest more Cardanians gravitated to the group. The Cardano community saw the organization's potential, and Partnerships were formed with other builders in the network. Community Associates found their place of value in ADAO and became Core Contributors.
 
-While the Founding Core Contributors all believed in highly-distributed forms of governance, the governing script was controlled by 16 governance tokens that had been initially distributed to 8 people.  This was done out of necessity because without a convenient interface for proposal interaction the script governors had to utilize the Command Line Interface for each interaction with the underlying governance script .
+While the Founding Core Contributors believed in highly-distributed forms of governance, the governing script was controlled by 16 governance tokens that had been initially distributed to 8 people. This was done out of necessity because, without a convenient interface for proposal interaction with the script, governors had to utilize the Command Line Interface for each interaction with the underlying governance script.
 
-By the hard work of the Development team, a governance system was developed that would be more easily accessible to all users.  At the same time the DAO created identity standards, membership management, and processes for ensuring that decentralized work could be done in an efficient manner.  Additional governance tokens were minted within the ADAO Treasury that would become available for distribution.
+By the Development team's tireless efforts, a governance system was developed that would be more easily accessible to all users. ADAO also created identity standards, membership management, and processes for ensuring that decentralized work could be done in an efficient manner. Additional governance tokens were minted within the ADAO Treasury that would become available for distribution.
 
- ADAO Continues to strive for full decentralization through open collaboration and events like our community airdrop of governance tokens from the Treasury.  This airdrop, 1) Rewarded the Founding Core Contributors for their organizational work, 2) Rewarded Early Supporters for their contributions, 3) Funded Groundwork Bounties to incentivize specific projects, and 4) Funded a Community Faucet that would give any member of the Cardano community an opportunity to obtain tokens.
+ADAO Continues to strive for full decentralization through open collaboration and events like our community airdrop of governance tokens from the Treasury.  This airdrop, 1) Rewarded the Founding Core Contributors for their organizational work, 2) Rewarded Early Supporters for their contributions, 3) Funded Groundwork Bounties to incentivize specific projects, and 4) Funded a Community Faucet that would give any member of the Cardano community an opportunity to obtain tokens.
 Through the process of token distribution and claiming the tokens all Founding Core Contributors and Early Supporters ratified the ADAO Constitution and adopted this Handbook for organizational structure.
 
 ## Membership
@@ -30,15 +30,15 @@ Members shall fall into one or more of the following categories:
 
 1. **GovToken Holders** 
 
-Are individuals who hold the ADAO Governance Token (ADAO). GovToken Holders are responsible for deciding the priorities of the DAO through the proposal process.  No assets may be moved out of the DAO treasury without a vote of GovToken Holders and all program coordination is formalized through votes on proposals. To obtain the GovToken Holder role it is necessary to register the wallet holding the GovTokens via HazelBot on ADAOs discord server.
+Are individuals who hold the ADAO Governance Token (ADAO). GovToken Holders are responsible for deciding the priorities of the DAO through the proposal process. No assets may be moved out of the DAO treasury without a vote of GovToken Holders, and all program coordination is formalized through votes on proposals. To obtain the GovToken Holder role it is necessary to register the wallet holding the GovTokens via HazelBot on ADAOs discord server.
 
 2. **Active Contributors** | Discord role: **ADAO Builder**
 
-Community volunteers who dedicate their time to DAO projects or working groups. Individuals who contribute can claim bounties from the DAO treasury and use any GovTokens they receive to vote on what projects the DAO should work on next. Working group leads will be in charge of nominating members of their working groups to become active contributors, as well as initiating the removal of the role if the member becomes inactive. Roles will be assigned by ADAO server administrators. The ADAO Builder role will be working group specific, e.g. **ADAO Builder Development**, **ADAO Builder Administration**
+Community volunteers who dedicate their time to DAO projects or working groups. Individuals who contribute can claim bounties from the DAO treasury and use any GovTokens they receive to vote on what projects the DAO should work on next. Working group leads will be in charge of nominating members of their working groups to become active contributors, as well as initiating the removal of the role if the member becomes inactive. Roles will be assigned and managed by ADAO server administrators and automation. The ADAO Builder role will be working group specific, e.g. **ADAO Builder Development**, **ADAO Builder Administration**
 
 3. **Community Associates** | Discord role: **ADAO Supporter**
 
-Any member of the Cardano community who chooses to associate with ADAO.  Even if an individual does not yet hold any GovTokens they can engage in legitimate peripheral participation by engaging in community discussions to help guide DAO efforts. By joining the ADAO discord server and verifying oneself the role is automatically assigned by the system.
+Any member of the Cardano community who chooses to associate with ADAO. Even if an individual does not yet hold any GovTokens they can engage in legitimate peripheral participation by engaging in community discussions to help guide DAO efforts. By joining the ADAO discord server and verifying oneself the role is automatically assigned by the system.
 
 4. **Core Contributor**
 
@@ -69,7 +69,7 @@ It should also be noted:
 
 The Legal working group and ADAO Core Contributors shall be responsible for appointing directors of the ADAO Foundation, a non-profit entity in Lichtenstein.  This foundation is controlled by a council of no less than three directors with a local representative to carry out their directives.
 
-The foundation shall Hold the intellectual DAO’s interests, property rights, and enforce any such related legal rights.  To fund the foundation ADAO shall provide assets from the Treasury into a multi-signature wallet controlled by the directors.  The Legal working group and ADAO Core Contributors have the right to appoint and dismiss directors from the foundation at will.
+The foundation shall Hold the intellectual DAO’s interests, property rights, and enforce any such related legal rights. To fund the foundation ADAO shall provide assets from the Treasury into a multi-signature wallet controlled by the directors. The Legal working group and ADAO Core Contributors have the right to appoint and dismiss directors from the foundation at will.
 
 ## Standards of Conduct
 
